@@ -1,5 +1,5 @@
 # digit_classifier_dropout
-Practice implementing a CNN on the MNIST dataset - test out dropout vs. no dropout
+Practice implementing a CNN classifier on the MNIST dataset - test out dropout vs. no dropout
 
 November 11, 2020
 
